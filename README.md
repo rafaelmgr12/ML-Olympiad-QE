@@ -14,17 +14,3 @@ O Exame Nacional do Ensino Médio (Enem) foi instituído no Brasil em 1998, com 
 <https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem>
 
 Nesse contexto, essa competição será focada nos dados do Enem aqui disponibilizados. Os competidores terão que criar modelos para predizer as notas dos alunos(as) nas provas: Ciências da Natureza, Ciências Humanas, Linguagens e Códigos, Matemática e Redação.
-Você pode participar da competição individualmente, em dupla ou em grupo de no máximo três pessoas. Os três primeiros grupos (1, 2 ou 3 pessoas por grupo) colocados ganharão brindes do programa Google experts.
-
-Queremos não só que as pessoas participem da competição, mas que gerem discussões e análises sobre o tema e sobre os dados, ex: é possível encontrar algum viés racial nos dados? Portanto teremos um prêmio extra para o notebook mais votado.
-
-Prêmio
-Os prêmios para os três primeiros vencedores são patrocinados pelo Google Developers
-Prêmio especial para o notebook mais votado será patrocinado pelo TFUG São Paulo
-Compartilhe seu progresso usando esta hashtag no Twitter: #MLOlympiad
-
-Restrições
-• O Google não oferece suporte a competições na Crimeia, Coreia do Norte, Quebec e onde proibido por lei. Este programa segue os Termos das Competições de Codificação do Google, consulte a seção 1. Elegibilidade nos regulamentos da competição para obter mais detalhes.
-<https://codingcompetitions.withgoogle.com/terms/>
-
-• As entregas de brindes podem ser atrasadas em algumas regiões devido ao COVID-19.
