@@ -1,0 +1,13 @@
+Scripts escritos para ambientes Linux.
+
+Como rodar os modelos:
+
+1) Instale as dependencias que constam no arquivo 'requirements.txt' usando o pip
+
+2) Faça download dos arquivos "train.csv" e "test.csv" no link abaixo:
+https://www.kaggle.com/c/qualityeducation/data
+(guarde estes arquivos no diretório input)
+
+3) Abre o terminal e execute o script_run.sh
+
+4) Após algum tempo, os resultados estarão no diretório 'output'
